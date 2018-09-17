@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Zadatak1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eastbeastSRB/JavaScript-tasks.git"
+  },
+  "author": "Aleksandar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eastbeastSRB/JavaScript-tasks/issues"
+  },
+  "homepage": "https://github.com/eastbeastSRB/JavaScript-tasks#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "prompt-choices": "^5.0.0"
+  }
+}
