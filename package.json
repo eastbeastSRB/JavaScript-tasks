@@ -18,6 +18,7 @@
   "homepage": "https://github.com/eastbeastSRB/JavaScript-tasks#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "inquirer": "^6.2.0",
     "prompt-choices": "^5.0.0"
   }
 }

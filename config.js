@@ -1,7 +1,8 @@
+// Set the config values
 module.exports = {
-  min: 3,
-  max: 10,
-  array: [2,5,7],
-  string: "task one",
-  choices: ["random", "minIntegerFromArray", "minIntegerFromString", "concatStringsByLength"]
+  min: 11,
+  max: 12,
+  array: ['exam', '123', 1,2, {name: "Aleksandar"}, 5,6, {}, 100, 200],
+  string: 'task 1',
+  arrOfStrings: ["random", "minIntegerFromArray", "minIntegerFromString", "concatStringsByLength"]
 }
